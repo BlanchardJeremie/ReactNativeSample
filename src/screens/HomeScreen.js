@@ -86,7 +86,7 @@ export default class HomeScreen extends Component {
         <View style={styles.margin}>
           <Button
             onPress={this.navigateToGreetings}
-            title="Greetings"
+            title="niko"
           />
         </View>
 
